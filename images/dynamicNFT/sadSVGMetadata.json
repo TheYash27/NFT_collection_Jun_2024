@@ -1,0 +1,11 @@
+{
+    "name": "Mood NFT",
+    "description": "An NFT that reflects the mood of the owner, 100% on Chain!",
+    "image": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDIwMCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiPgogIDxjaXJjbGUgY3g9IjEwMCIgY3k9IjEwMCIgcj0iNzUiIGZpbGw9InllbGxvdyIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIzIi8+CgogIDxjaXJjbGUgY3g9IjcwIiBjeT0iMTMwIiByPSIxNSIgZmlsbD0iYmxhY2siLz4KICA8Y2lyY2xlIGN4PSIxMzAiIGN5PSIxMzAiIHI9IjE1IiBmaWxsPSJibGFjayIvPgoKICA8cGF0aCBkPSJNNjUsMTAwIEM5MCw3MCwgMTEwLDcwLCAxMzUsMTAwIiAKICAgICAgICBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjMiIGZpbGw9InRyYW5zcGFyZW50Ii8+Cjwvc3ZnPgoK",
+    "attributes": [
+        {
+            "trait_type": "MOOD",
+            "value": 0
+        }
+    ]
+}

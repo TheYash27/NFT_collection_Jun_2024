@@ -1,0 +1,35 @@
+{
+    "name":"Harry Potter", 
+    "description":"NFT of Golden Trifecta, 100% off-chain!",
+    "image":"ipfs://QmWzG13UQxWTcKrEUbcqH13tQXcHRFh43vaEkqRZSUD3oQ",
+    "attributes": [
+        {
+            "trait_type": "MOUSTACHE", 
+            "value": 2
+        },
+        {
+            "trait_type": "BEARD", 
+            "value": 2
+        },
+        {
+            "trait_type": "BREAST", 
+            "value": 2
+        },
+        {
+            "trait_type": "VAGINA",
+            "value": 1
+        },
+        {
+            "trait_type": "PENIS",
+            "value": 2
+        },
+        {
+            "trait_type": "SPERM",
+            "value": 200
+        },
+        {
+            "trait_type": "EGG",
+            "value": 2
+        }
+    ]
+}
